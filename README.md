@@ -8,6 +8,13 @@ This project core focuses on identifying different tomato plant diseases, thus a
 
 * [Project Structure](https://github.com/Abdelrahman-ammar/Tomatoes-Mobile-Classification/blob/main/README.md#Project-Structure)
 
+* [How to Start](https://github.com/Abdelrahman-ammar/Tomatoes-Mobile-Classification/blob/main/README.md#How-to-Start)
+
+* [Model Deployment - Docker](https://github.com/Abdelrahman-ammar/Tomatoes-Mobile-Classification/blob/main/README.md#Model-Deployment-Docker)
+
+* [Model Deployment - Heroku](https://github.com/Abdelrahman-ammar/Tomatoes-Mobile-Classification/blob/main/README.md#Model-Deployment-Heroku)
+
+* [Demo](https://github.com/Abdelrahman-ammar/Tomatoes-Mobile-Classification/blob/main/README.md#Demo)
 
 ### What is this Project
 As in the description above this project identifies the tomato diseases between 10 different diseases of the tomato (including the Healthy or the normal class)
