@@ -1,0 +1,6 @@
+gunicorn
+flask
+tensorflow==2.14.0
+pillow
+numpy==1.26.4
+protobuf==3.20.*
